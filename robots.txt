@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/phosphatidylserine-cortisol-solution/sitemap.xml
+Sitemap: https://phosphatidylserine-cortisol-solution.vercel.app/sitemap-vercel.xml
+Sitemap: https://phosphatidylserine-cortisol-solution.pages.dev/sitemap-cloudflare.xml
